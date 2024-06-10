@@ -50,8 +50,8 @@ let str3 = str1 + str2
 
 // console.log("1" + 2);
 // console.log(1 + "2");
-// console.log("1" + 2 + 2);
-// console.log(1 + 2 + "2");
+console.log(typeof "5" + 6 + 6);
+console.log(typeof 7 + 8 + "2");
 
 // console.log( (3 + 4) * 5 % 3);
 
