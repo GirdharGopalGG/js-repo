@@ -14,7 +14,7 @@ USE ONLY "LET" AND "CONST"
 
 userEmail = "gg@wp.com"
 userPassword = "glhf"
-userState = "Germany"
+userState = "Germany" 
 
 console.log(userId)
 console.table([userId,userEmail,userPassword,userState,userCity])
